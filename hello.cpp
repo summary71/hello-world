@@ -2,7 +2,10 @@
 
 using namespace::std;
 
+int print_hello();
+
 main()
 {
-	cout << "Hello World" << endl;
+	print_hello();
+
 }
